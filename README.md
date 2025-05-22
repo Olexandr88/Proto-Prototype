@@ -7,8 +7,8 @@
 ![](https://github.com/Monas-project/Filecoin-Data-Economy-Hackathon/blob/52ede03fb7179dad41706f0b14469035c35bae16/images/System%20configuration%20diagram.png)
 
 Learn more about the Prototype: [here](https://github.com/Monas-project/Filecoin-Data-Economy-Hackathon/blob/main/docs/prototype.md#monas-decentralized-personal-data-store)  
-Monas Docs: [here](../Filecoin-Data-Economy-Hackathon/docs/files/Monas-docs-v1.0.pdf)  
-Monas Slides: [here](../Filecoin-Data-Economy-Hackathon/docs/files/Monas-slides-v1.0.pdf)
+Monas Docs: [here](https://github.com/Monas-project/Proto-Prototype/blob/main/docs/files/Monas-docs-v1.0.pdf)  
+Monas Slides: [here](https://github.com/Monas-project/Proto-Prototype/blob/main/docs/files/Monas-slides-v1.0.pdf)
 
 ## PushProtocol Signer Info(Ethereum Sepolia)
 
